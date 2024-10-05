@@ -1,0 +1,33 @@
+05-10-2024 13:48:07 - INFO - Tarefas carregadas com sucesso do arquivo.
+05-10-2024 13:48:07 - INFO - Programa iniciado.
+05-10-2024 13:48:30 - INFO - 4 tarefas listadas.
+05-10-2024 13:49:14 - INFO - Programa encerrado pelo usuário.
+05-10-2024 13:53:54 - INFO - Tarefas carregadas com sucesso do arquivo.
+05-10-2024 13:53:54 - INFO - Programa iniciado.
+05-10-2024 13:54:05 - INFO - 4 tarefas listadas.
+05-10-2024 13:54:39 - INFO - 3 tarefas salvas no arquivo tarefas.json.
+05-10-2024 13:54:39 - INFO - Tarefa removida: {'id': 4, 'nome': 'Tarefa 4', 'concluida': False}
+05-10-2024 14:08:29 - INFO - 3 tarefas listadas.
+05-10-2024 14:08:46 - WARNING - Tentativa de marcar tarefa com índice inválido: 123
+05-10-2024 14:23:13 - INFO - Programa encerrado pelo usuário.
+2024-10-05 14:23:22 - INFO - Tarefas carregadas com sucesso do arquivo.
+2024-10-05 14:23:22 - INFO - Programa iniciado.
+2024-10-05 14:23:34 - INFO - 3 tarefas listadas.
+2024-10-05 14:24:13 - INFO - 4 tarefas salvas no arquivo tarefas.json.
+2024-10-05 14:24:13 - INFO - Tarefa adicionada: {'id': 4, 'nome': 'Tarefa 4', 'concluida': False}
+2024-10-05 14:24:23 - INFO - 4 tarefas listadas.
+2024-10-05 14:28:04 - INFO - Tarefas filtradas por: pendente
+2024-10-05 14:28:04 - INFO - 2 tarefas listadas.
+2024-10-05 14:28:47 - INFO - 4 tarefas listadas.
+2024-10-05 14:29:10 - INFO - 4 tarefas salvas no arquivo tarefas.json.
+2024-10-05 14:29:10 - INFO - Tarefa editada: {'id': 2, 'nome': 'Tarefa 2', 'concluida': False}
+2024-10-05 14:29:18 - INFO - Tarefas ordenadas por: nome
+2024-10-05 14:29:18 - INFO - 4 tarefas listadas.
+2024-10-05 14:29:28 - INFO - Tarefas ordenadas por: status
+2024-10-05 14:29:28 - INFO - 4 tarefas listadas.
+2024-10-05 14:29:35 - INFO - Tarefas ordenadas por: entrada
+2024-10-05 14:29:35 - INFO - 4 tarefas listadas.
+2024-10-05 14:29:52 - INFO - 4 tarefas listadas.
+2024-10-05 14:30:16 - INFO - 0 tarefas salvas no arquivo tarefas.json.
+2024-10-05 14:30:16 - INFO - Todas as tarefas foram removidas pelo usuário.
+2024-10-05 14:30:24 - WARNING - Nenhuma tarefa disponível para exibição com o filtro aplicado.
